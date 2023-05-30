@@ -1,0 +1,27 @@
+{
+  "name": "platzi-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "^11.8.0",
+    "next": "12.1.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-syntax-highlighter": "^15.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "gray-matter": "^4.0.3",
+    "next-mdx-remote": "^4.4.1",
+    "postcss": "^8.4.23"
+  }
+}
